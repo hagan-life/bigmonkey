@@ -24,13 +24,13 @@ header{
     top:0;
     left:0;
     width:100%;
-    padding:0.75em 2em;
+    padding:0.5em 2em;
     background-color:#0080FF;
     z-index:10;
 }
 
 header>span{
-    font-size:2em;
+    font-size:1em;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-transform: uppercase;
     color:#fff;
